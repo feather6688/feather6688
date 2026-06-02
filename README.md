@@ -49,19 +49,6 @@
 
 </div>
 
----
-
-## 📊 GitHub 统计 | Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=feather6688&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=64ffda&icon_color=00cfff&text_color=e0e6ff&border_radius=10" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feather6688&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=64ffda&text_color=e0e6ff&border_radius=10" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=feather6688&theme=tokyonight&hide_border=true&background=0a0e1a&stroke=64ffda&ring=00cfff&fire=ff6b6b&currStreakLabel=64ffda&sideLabels=e0e6ff&dates=8892b0&border_radius=10" />
-</div>
-
 
 ## 📫 联系我 | Contact
 
