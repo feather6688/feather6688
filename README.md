@@ -23,10 +23,10 @@
 
 ## 🧑‍💻 关于我 | About Me
 
-- 🎯 **方向**：Python全栈开发 · 数据可视化 · 爬虫开发
+- 🎯 **方向**：Python全栈开发 · 爬虫开发 · 数据可视化 · 数据分析
 - 🌱 **正在学习**：Python AI Agent/ 大模型应用
-- 💡 **兴趣**：实时数据大屏、自动化工具、开源项目
-- 📍 **坐标**：China 在校生
+- 💡 **兴趣**：开源项目、实时数据大屏、自动化工具
+- 📍 **坐标**：China 大学在校生
 
 ---
 
@@ -61,25 +61,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=feather6688&theme=tokyonight&hide_border=true&background=0a0e1a&stroke=64ffda&ring=00cfff&fire=ff6b6b&currStreakLabel=64ffda&sideLabels=e0e6ff&dates=8892b0&border_radius=10" />
 </div>
-
----
-
-## 🚀 项目展示 | Projects
-
-### 🔴 LIVE — 抖音直播运营智能决策分析系统
-> Python + FastAPI + WebSocket + Vue3 + ECharts 全栈实时数据大屏
-
-- 🎯 实时采集抖音直播间弹幕（含 emoji）
-- 📊 运营指标实时计算（满意度 / 热度 / 风险等级）
-- 😊 SnowNLP 中文情感分析
-- 🚨 四类异常预警（价格 / 物流 / 售后 / 质量）
-- 💡 规则引擎自动生成运营建议
-- 🎨 14 个独立组件，深色科技风大屏
-
-```
-🏷️ Python | FastAPI | SnowNLP | Vue3 | ECharts | WebSocket
-```
-
 
 
 ## 📫 联系我 | Contact
