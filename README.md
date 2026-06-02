@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/28490422/README.md)
+
 # feather666
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=32&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+feather6688+%F0%9F%91%8B;Welcome+to+my+GitHub+%F0%9F%9A%80" alt="Typing SVG" />
@@ -87,15 +87,7 @@
 🏷️ Python | FastAPI | SnowNLP | Vue3 | ECharts | WebSocket
 ```
 
----
 
-## 📈 活跃度 | Activity
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=feather6688&theme=algolia&no-frame=true&column=6&margin-w=8&title=Commit,PR,Repositories,Stars,Followers,Issues" />
-</div>
-
----
 
 ## 📫 联系我 | Contact
 
