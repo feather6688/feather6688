@@ -4,13 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=32&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+feather6688+%F0%9F%91%8B;Welcome+to+my+GitHub+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=feather6688&color=64ffda&style=flat-square&label=%E8%AE%BF%E5%AE%A2%E6%95%B0" alt="visitors" />
-  <a href="https://github.com/feather6688?tab=followers">
-    <img src="https://img.shields.io/github/followers/feather6688?color=00cfff&style=flat-square&label=Follow" alt="followers" />
-  </a>
-</div>
-
 <br />
 
 <div align="center">
